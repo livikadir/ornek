@@ -1,6 +1,7 @@
 /*
+Javada 
 While ile kullanıcı giriş kontrolü yazalım
-
+User login control with while
 
 */
 import java.util.Scanner;
