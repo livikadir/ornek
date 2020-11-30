@@ -1,1 +1,2 @@
-# ornek
+# Miniminijavaproject
+
